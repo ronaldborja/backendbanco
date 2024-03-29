@@ -1140,8 +1140,7 @@ class Model
 	 */
 	public function set_timestamps()
 	{
-		date_default_timezone_set('America/Bogota');
-		$now = date('Y-m-d H:i:s');
+		$now = @date('Y-m-d H:i:s');
 
 		if (isset($this->updated_at))
 			$this->updated_at = $now;

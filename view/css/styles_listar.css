@@ -1,0 +1,22 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    background-color: #21130d;
+    color: #eeeee4
+}
+
+table {
+    font-size: 16px;
+}
+
+td, th {
+    border: 1px solid #eeeee4;
+    padding: 10px;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: left;
+}
