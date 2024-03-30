@@ -11,8 +11,4 @@ class Cuenta extends ActiveRecord\Model {
         array("Cliente")
     );
 }
-
-
-
-
 ?> 

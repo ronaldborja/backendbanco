@@ -51,7 +51,7 @@
                             <li><a href="../backendbanco/view/empleado/buscar.php">Buscar Empleado</a>
                             <li><a href="../backendbanco/view/empleado/buscar.php">Actualizar Empleado</a>
                             <li><a href="../backendbanco/view/empleado/buscar.php">Eliminar Empleado</a>
-                            <li><a href="../backendbanco/view/empleado/buscar.php">Listar Empleados</a>
+                            <li><a href="../backendbanco/view/empleado/listar_todo.php">Listar Empleados</a>
                         </ul>
                 
                     </li>
@@ -73,6 +73,6 @@
     <div class="text-box">
         <h1>Sistema Bancario </h1>
         <p>Maneja tu dinero de forma facil y segura</p>
-        <a href="../view/cuentas/agregar.php" class="conecta-boton">Crea tu cuenta</a>
+        <a href="../backendbanco/view/cuentas/agregar.php" class="conecta-boton">Crea tu cuenta</a>
     </div>
     </section>

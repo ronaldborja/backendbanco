@@ -16,8 +16,4 @@ class Cliente extends ActiveRecord\Model {
     );
 
 }
-
-
-
-
 ?> 

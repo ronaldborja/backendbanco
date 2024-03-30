@@ -1,6 +1,6 @@
 <?php 
 // Mensaje recibido -> Controller 
-$msg = @$_REQUEST["msg"]; 
+$msg = @$_REQUEST["msg"];
 ?> 
 
 <!DOCTYPE html>

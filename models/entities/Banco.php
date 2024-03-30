@@ -12,7 +12,4 @@ class Banco extends ActiveRecord\Model {
 
 }
 
-
-
-
 ?> 

@@ -7,8 +7,4 @@ class Empleado extends ActiveRecord\Model {
     public static $table_name = "empleados";
     public static $belongs_to = array(array("Sucursal"));
 }
-
-
-
-
 ?> 

@@ -12,14 +12,5 @@ class Sucursal extends ActiveRecord\Model {
         array("Cuentas"),
         array("Empleados")
     );
-    
-
-    
-
-
 }
-
-
-
-
 ?> 
